@@ -7,6 +7,7 @@ authors = ["Wenhao Piao <wenhaopi@amazon.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 nltk = "^3.7"
+pytest = "^7.0.0"
 
 [tool.poetry.dev-dependencies]
 
